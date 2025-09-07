@@ -1,0 +1,36 @@
+Student Marks Analyzer
+An array stores marks of 10 students. Write a program to calculate:
+Average marks
+Highest marks
+Lowest marks
+
+Array Rotation
+Write a program to rotate an array to the right by k positions.
+(Example: Input [1,2,3,4,5], k=2 → Output [4,5,1,2,3])
+
+Duplicate Finder
+Given an array of integers, find and display all duplicate elements.
+
+Second Largest Element
+Write a program to find the second largest number in an array without sorting.
+
+Merge Two Arrays
+Given two arrays, merge them into one sorted array without using built-in sort functions.
+
+Frequency Counter
+For an array of integers, print how many times each element appears.
+(Example: [2,3,2,4,3] → 2 occurs 2 times, 3 occurs 2 times, 4 occurs 1 time)
+
+Matrix Addition
+Write a program to add two 2D arrays (matrices) and print the result.
+
+Sparse Matrix Check
+A matrix is called sparse if most of its elements are 0.
+Write a program that checks whether a given 2D array is sparse.
+
+Missing Number in Array
+An array contains n-1 numbers from 1 to n. Find the missing number.
+(Example: [1,2,4,5,6] → Missing is 3)
+
+Array Element Rearrangement
+Write a program that rearranges the elements of an array so that all negative numbers come before positive numbers, without using another array.
