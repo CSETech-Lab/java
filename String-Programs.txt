@@ -1,0 +1,44 @@
+Palindrome Checker
+Write a program that takes a word as input and checks if it is a palindrome (same forward and backward), ignoring case.
+
+Word Frequency Counter
+Given a sentence, count how many times each word appears and display the frequency.
+
+Anagram Test
+Write a program to check if two strings are anagrams of each other (contain the same characters in different order).
+
+Vowel and Consonant Counter
+Take a sentence as input and count the number of vowels and consonants separately.
+
+Password Validator
+Create a program that validates a password based on these rules:
+
+Minimum 8 characters
+
+At least one uppercase letter
+
+At least one digit
+
+At least one special character
+
+Longest Word Finder
+Given a sentence, find the longest word and print it along with its length.
+
+Character Frequency
+Input a string and display how many times each character occurs (ignoring case and spaces).
+
+String Rotation
+Write a program to check if one string is a rotation of another string.
+(Example: “abcd” is a rotation of “dabc”)
+
+Replace Duplicate Words
+From a sentence, remove duplicate words while preserving the first occurrence.
+
+Email Validator
+Check whether an entered string is a valid email or not.
+
+Should contain @ and .
+
+Should not start with a digit
+
+Should not have spaces
